@@ -185,7 +185,7 @@ if (!(1 === 1)) {
 }
 ```
 
-### Notas sobre operadores lógicos
+### Notas sobre operadores lógicos 
 
 Un par de cosas a tener en cuenta sobre los operadores lógicos.
 
